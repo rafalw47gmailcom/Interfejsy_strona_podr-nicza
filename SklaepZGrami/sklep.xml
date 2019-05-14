@@ -1,0 +1,139 @@
+<?xml version="1.0" standalone="yes"?>
+<Sklep>
+  <PRODUKTY>
+    <Opis>gra planszowa przeznaczona dla dwóch, trzech lub czterech osób (istnieją także plansze dla 5–6 graczy). Gra powstała na podstawie hinduskiej gry pachisi na przełomie 1907 i 1908 roku w Niemczech, a jej autorem jest Josef Friedrich Schmidt.</Opis>
+    <Nazwa>Chińczyk</Nazwa>
+    <Cena>1059</Cena>
+    <Obrazy>1</Obrazy>
+    <IGraczy>4</IGraczy>
+    <Rodzaj>Planszowa</Rodzaj>
+  </PRODUKTY>
+  <PRODUKTY>
+    <Opis>klasyczna gra polegająca na handlu nieruchomościami. Wymyślona w Stanach Zjednoczonych w okresie Wielkiego Kryzysu przez Elizabeth Magie. Daje graczom szansę obracania wielkimi pieniędzmi i szybkiego wzbogacenia się na podstawie The Landlord's Game.</Opis>
+    <Nazwa>Monopoly</Nazwa>
+    <Cena>2999</Cena>
+    <Obrazy>2</Obrazy>
+    <IGraczy>4</IGraczy>
+    <Rodzaj>Planszowa</Rodzaj>
+  </PRODUKTY>
+  <PRODUKTY>
+    <Opis>gra zręcznościowa stworzona przez przedsiębiorstwo Namco, wydana po raz pierwszy w 1980 roku[1]. Początkowo wydana na automaty do gier, stopniowo zostawała konwertowana na platformy: Atari 2600, Commodore 64, Intellivision, Sega Game Gear, NES, SNES, Gameboy, PC i inne. W 2016 wydano konsolę NES Classic Edition, zawierającą fabrycznie zainstalowaną wersję Pac-Mana[2].</Opis>
+    <Nazwa>Pacman</Nazwa>
+    <Cena>3599</Cena>
+    <Obrazy>3</Obrazy>
+    <IGraczy>4</IGraczy>
+    <Rodzaj>Planszowa</Rodzaj>
+  </PRODUKTY>
+  <PRODUKTY>
+    <Opis>rodzina strategicznych gier planszowych rozgrywanych przez dwóch graczy na 64-polowej szachownicy, za pomocą zestawu bierek (pionów i figur). Popularnie, choć nieprecyzyjnie, szachami nazywa się również wspomniane bierki. Międzynarodowy Komitet Olimpijski uznaje szachy za dyscyplinę sportu</Opis>
+    <Nazwa>Szachy</Nazwa>
+    <Cena>1599</Cena>
+    <Obrazy>4</Obrazy>
+    <IGraczy>2</IGraczy>
+    <Rodzaj>Planszowa</Rodzaj>
+  </PRODUKTY>
+  <PRODUKTY>
+    <Opis> gra planszowa powstała w XII wieku, najprawdopodobniej na południu Francji lub w Hiszpanii. Gra posiada wiele odmian, spośród których uważane za dyscyplinę sportową są jedynie warcaby polskie (stupolowe) nazywane też międzynarodowymi.</Opis>
+    <Nazwa>Warcaby</Nazwa>
+    <Cena>999</Cena>
+    <Obrazy>5</Obrazy>
+    <IGraczy>2</IGraczy>
+    <Rodzaj>Planszowa</Rodzaj>
+  </PRODUKTY>
+  <KLIENCI>
+    <Imie>a</Imie>
+    <Nazwisko>a</Nazwisko>
+    <Login>a</Login>
+    <Haslo>a</Haslo>
+    <Miasto>a</Miasto>
+    <Ulica>a</Ulica>
+    <Mieszkanie>1</Mieszkanie>
+  </KLIENCI>
+  <KLIENCI>
+    <Imie>b</Imie>
+    <Nazwisko>b</Nazwisko>
+    <Login>b</Login>
+    <Haslo>b</Haslo>
+    <Miasto>b</Miasto>
+    <Ulica>b</Ulica>
+    <Mieszkanie>2</Mieszkanie>
+  </KLIENCI>
+  <KLIENCI>
+    <Imie>h</Imie>
+    <Nazwisko>h</Nazwisko>
+    <Login>h</Login>
+    <Haslo>h</Haslo>
+    <Miasto>h</Miasto>
+    <Ulica>h</Ulica>
+    <Mieszkanie>5</Mieszkanie>
+  </KLIENCI>
+  <ZAMOWIENIA>
+    <Imie>b</Imie>
+    <Nazwisko>b</Nazwisko>
+    <Adres>b b 2</Adres>
+    <Produkty>001</Produkty>
+    <Personalizacja>000</Personalizacja>
+    <Wysylka>Kuriererska</Wysylka>
+  </ZAMOWIENIA>
+  <ZAMOWIENIA>
+    <Imie>a</Imie>
+    <Nazwisko>a</Nazwisko>
+    <Adres>a a 1</Adres>
+    <Produkty>0</Produkty>
+    <Personalizacja>0</Personalizacja>
+    <Wysylka>zaPobraniem</Wysylka>
+  </ZAMOWIENIA>
+  <ZAMOWIENIA>
+    <Imie>a</Imie>
+    <Nazwisko>a</Nazwisko>
+    <Adres>a a 1</Adres>
+    <Produkty>100111</Produkty>
+    <Personalizacja>204000</Personalizacja>
+    <Wysylka>kurierska</Wysylka>
+  </ZAMOWIENIA>
+  <ZAMOWIENIA>
+    <Imie>a</Imie>
+    <Nazwisko>a</Nazwisko>
+    <Adres>a a 1</Adres>
+    <Produkty>12</Produkty>
+    <Personalizacja>00</Personalizacja>
+    <Wysylka>zaPobraniem</Wysylka>
+  </ZAMOWIENIA>
+  <ZAMOWIENIA>
+    <Imie>p</Imie>
+    <Nazwisko>p</Nazwisko>
+    <Adres>p p 5</Adres>
+    <Produkty>02</Produkty>
+    <Personalizacja>00</Personalizacja>
+    <Wysylka>zaPobraniem</Wysylka>
+  </ZAMOWIENIA>
+  <ZAMOWIENIA>
+    <Imie>a</Imie>
+    <Nazwisko>a</Nazwisko>
+    <Adres>a a 1</Adres>
+    <Produkty>102</Produkty>
+    <Personalizacja>000</Personalizacja>
+    <Wysylka>zaPobraniem</Wysylka>
+  </ZAMOWIENIA>
+  <ZAMOWIENIA>
+    <Imie>a</Imie>
+    <Nazwisko>a</Nazwisko>
+    <Adres>a a 1</Adres>
+    <Produkty>123</Produkty>
+    <Personalizacja>000</Personalizacja>
+    <Wysylka>zaPobraniem</Wysylka>
+  </ZAMOWIENIA>
+  <ZAMOWIENIA>
+    <Imie>a</Imie>
+    <Nazwisko>a</Nazwisko>
+    <Adres>a a 1</Adres>
+    <Produkty>100</Produkty>
+    <Personalizacja>000</Personalizacja>
+    <Wysylka>zaPobraniem</Wysylka>
+  </ZAMOWIENIA>
+  <ZAMOWIENIA>
+    <Adres xml:space="preserve">  </Adres>
+    <Produkty>24</Produkty>
+    <Personalizacja>00</Personalizacja>
+  </ZAMOWIENIA>
+</Sklep>

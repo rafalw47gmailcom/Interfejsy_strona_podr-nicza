@@ -1,0 +1,9 @@
+<? xml version="1.0" encoding="utf-8" ?>
+<Sklep>
+    <Produkty>
+        <Opis>asdasdasdasdasdasdasdasdasasdasdasdasdasdasdasdasd  </Opis>
+        <Nazwa> asd </Nazwa>
+        <Cena> 1 </Cena>
+        <Obrazy> 1 </Obrazy>
+    </Produkty>
+</Sklep>
